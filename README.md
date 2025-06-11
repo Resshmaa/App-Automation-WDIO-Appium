@@ -55,7 +55,7 @@ A modular and scalable mobile automation test framework supporting **Android and
 npm install
 ````
 
-### 2. 🔧 Configure `run.config.json`
+### 2. Configure `run.config.json`
 
 ```json
 {
