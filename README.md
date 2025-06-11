@@ -73,6 +73,10 @@ npm install
 }
 ```
 
+## Note:
+Rename run.config.sample.json to run.config.json before running any tests.
+This file contains execution mode, squad (platform), and app-specific configs.
+
 ### 3. Run Tests
 
 #### Local Execution
