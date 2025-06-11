@@ -1,0 +1,9 @@
+{
+    "Login": 
+    {
+        "Username": "bob@example.com",
+        "Password": "10203040",
+        "WrongUsername": "abc",
+        "WrongPassword": "123"
+    }
+}
