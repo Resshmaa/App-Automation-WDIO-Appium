@@ -6,7 +6,7 @@ A modular and scalable mobile automation test framework supporting **Android and
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── AppAndroid/                  # Android-specific automation code
